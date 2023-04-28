@@ -35,7 +35,7 @@ frame_azul.config(bg="white", width=400, height=400)
 frame_azul.place(x=200, y=0 )
 
 #---------------
-# frama rojo
+# frama rojo 
 #---------------
 frame_rojo = Frame(ventana_principal)
 frame_rojo.config(bg="red", width=400, height=400)

@@ -36,4 +36,4 @@ frame_azul.place(x=200, y=100 )
 
 # run
 # se ejecuta el emtodo mainloop()de la clase Tk() a travez de la ventana_principal. este metodo despliega la ventana en pantalla y queda ala espera de lo que el usuario haga (click en un boton,escribir,etc). cada accion del usuario se conoce como un evento. El metodo mainloop() es un bucle infventana_principal.mainloop()es un bucle infinito.
-ventana_principal.mainloop()
+ventana_principal.mainloop() 
